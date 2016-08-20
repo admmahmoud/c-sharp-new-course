@@ -1,0 +1,6 @@
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\bin\Debug\data types floatpointtypes.exe.config
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\bin\Debug\data types floatpointtypes.exe
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\bin\Debug\data types floatpointtypes.pdb
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\obj\Debug\data types floatpointtypes.csprojResolveAssemblyReference.cache
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\obj\Debug\data types floatpointtypes.exe
+H:\vesual studio code\data types floatpointtypes\data types floatpointtypes\obj\Debug\data types floatpointtypes.pdb
