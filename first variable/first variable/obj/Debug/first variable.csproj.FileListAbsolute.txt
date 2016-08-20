@@ -1,0 +1,6 @@
+H:\vesual studio code\first variable\first variable\bin\Debug\first variable.exe.config
+H:\vesual studio code\first variable\first variable\obj\Debug\first variable.csprojResolveAssemblyReference.cache
+H:\vesual studio code\first variable\first variable\bin\Debug\first variable.exe
+H:\vesual studio code\first variable\first variable\bin\Debug\first variable.pdb
+H:\vesual studio code\first variable\first variable\obj\Debug\first variable.exe
+H:\vesual studio code\first variable\first variable\obj\Debug\first variable.pdb
