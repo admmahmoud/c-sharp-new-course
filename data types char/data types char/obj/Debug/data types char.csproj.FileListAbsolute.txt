@@ -1,0 +1,6 @@
+H:\vesual studio code\data types char\data types char\bin\Debug\data types char.exe.config
+H:\vesual studio code\data types char\data types char\bin\Debug\data types char.exe
+H:\vesual studio code\data types char\data types char\bin\Debug\data types char.pdb
+H:\vesual studio code\data types char\data types char\obj\Debug\data types char.csprojResolveAssemblyReference.cache
+H:\vesual studio code\data types char\data types char\obj\Debug\data types char.exe
+H:\vesual studio code\data types char\data types char\obj\Debug\data types char.pdb
