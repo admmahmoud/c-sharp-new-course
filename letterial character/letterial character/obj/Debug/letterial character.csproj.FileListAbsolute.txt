@@ -1,0 +1,6 @@
+H:\vesual studio code\letterial character\letterial character\bin\Debug\letterial character.exe.config
+H:\vesual studio code\letterial character\letterial character\bin\Debug\letterial character.exe
+H:\vesual studio code\letterial character\letterial character\bin\Debug\letterial character.pdb
+H:\vesual studio code\letterial character\letterial character\obj\Debug\letterial character.csprojResolveAssemblyReference.cache
+H:\vesual studio code\letterial character\letterial character\obj\Debug\letterial character.exe
+H:\vesual studio code\letterial character\letterial character\obj\Debug\letterial character.pdb
